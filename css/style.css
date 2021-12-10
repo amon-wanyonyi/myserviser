@@ -102,3 +102,27 @@ nav {
 .toggle .line3 {
     transform: rotate(45deg) translate(-5px, -6px);
 }
+
+
+/* .card {
+    margin-top: 450px;
+} */
+
+
+/* #service {
+    font-size: 48px;
+    font-weight: 900;
+    margin: 150px;
+}
+
+#tech {
+    font-size: 20px;
+    margin-bottom: 50px;
+} */
+
+#card {
+    background-image: url(/assets/bg.png);
+    background-repeat: no-repeat;
+    background-size: 1900px 1000px;
+    background-position: center;
+}
