@@ -5,12 +5,15 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
     min-width: 8vh;
-    font-family: 'Poppins', sans-serif;
 }
 
 .nav-links {
@@ -108,4 +111,20 @@ nav {
     background-repeat: no-repeat;
     background-size: 1900px 1100px;
     background-position: 100%;
+}
+
+.about {
+    height: 100%;
+    width: 80%;
+}
+
+#in-touch {
+    background-image: url(/assets/Rectangle\ 11.png);
+    background-repeat: no-repeat;
+    background-size: 1850px 480px;
+}
+
+.serv {
+    height: 50%;
+    width: 50%;
 }
